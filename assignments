@@ -1,0 +1,81 @@
+We will use a common arithmetic-like notation for
+these operations: x . y (or xy) means x And y, x + y means x Or y, and x means
+Not x.
+
+Nor function = NOT-Or: 
+
+The Xor function—shorthand for ‘‘exclusive or’
+
+Please access the readings inside Unit under the label "Reading Assignment." This week's readings are:
+
+    Introduction: Hello, World Below URL
+    Chapter 1: Boolean Logic (Nisan and Schocken)
+    Chapter 4: Logic Functions and Gates (Tarnoff)
+    Chapter 5: Boolean Algebra (Tarnoff)
+
+
+Discussion Assignment
+
+For your discussion question response, please provide a response to each of the following questions.  Make sure that you include the question followed by your answer to the question in your posting.
+
+    Why do Boolean functions play a central role in hardware architectures?
+    Describe Composite Gates.
+    Describe Multiplexors and Demultiplexors? What is the importance of the use of the selection bit and the data bits?
+    Use your Schottky Book to identify three Muxes and three Demuxes with brief descriptions of each.
+
+ANSWERS: 
+These boolean expressions
+can be used to describe or evaluate the output of a circuit.
+
+  
+
+
+
+
+
+
+
+
+
+A gate is a physical device that implements a Boolean function
+
+
+nand and nor are primitive gates
+
+
+Multiplexor A multiplexor (figure 1.8) is a three-input gate that uses one of the
+inputs, called ‘‘selection bit,’’ to select and output one of the other two inputs, called
+‘‘data bits.’’ Thus, a better name for this device might have been selector. The
+name multiplexor was adopted from communications systems, where similar
+devices are used to serialize (multiplex) several input signals over a single output
+wire.
+
+XOR FUNCTION
+
+The two-input XOR operation is represented using the symbol ⊕,
+but it can also be represented using a boolean expression.
+
+AND  = A · B
+
+OR = A + B
+
+NOT = X = A
+
+words:
+
+morrow
+naive
+intimate
+survey
+blissfully
+supplied
+deliberate
+overcome
+tuples
+
+
+Distributive Law: The AND'ing of an operand with an OR expression
+is equivalent to OR'ing the results of an AND between the first operand
+and each operand within the OR expression.
+A · (B + C) = A · B + A · C
+

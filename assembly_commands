@@ -1,0 +1,24 @@
+1 1 1 a
+c1 c2 c3 c4
+dest
+c5 c6 d1 d2
+jump
+d3 j1 j2 j3
+
+111a cccc ccdd djjj
+
+discurssion pag 13
+
+ 1 kb = 1024 bits
+
+constants:
+	non-negative numbers, always written in decimal
+Symbols:
+   user-defined; aaa, 123, _, ., $, : that cannot begin with a digit
+
+comments:
+	// like in C
+Case Conventions:
+     All the assembly mnemonics must be written in uppercase. The
+rest (user-defined labels and variable names) is case sensitive. The convention is to
+use uppercase for labels and lowercase for variable names.
